@@ -230,7 +230,7 @@ export default function Home() {
           </div>
           <div className="mt-8 border-t border-blue-800 pt-6 text-center text-sm">
             <p>
-              © {new Date().getFullYear()} Zespół Szkół Ogólnokształcących w Strzelinie. Wszelkie prawa zastrzeżone.
+              © 2025 Zespół Szkół Ogólnokształcących w Strzelinie. Wszelkie prawa zastrzeżone.
             </p>
           </div>
         </div>
