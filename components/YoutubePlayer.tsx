@@ -1,3 +1,5 @@
+"use client"
+
 import React, { forwardRef, useImperativeHandle, useRef, useState } from "react";
 import YouTube from "react-youtube";
 
